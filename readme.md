@@ -1,7 +1,7 @@
 
 # Pert Republic
 
-<p align="center"><img src="https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Pert-Republic/public/img/icons/ICON-PERT.png" width="150px" height="150px"></p> 
+<p align="center"><img src="https://github.com/lorenzhahaha/Pert-Republic/blob/master/public/img/icons/ICON-PERT.png" width="150px" height="150px"></p> 
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -28,28 +28,28 @@ Our mission is to create competitive advantages and greater economic value for o
 Here are some of the screenshots ... 
 
 ## User Login and Register
-![Image-1](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/2.jpg)
-![Image-2](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/1.jpg)
-![Image-3](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/3.jpg)
-![Image-4](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/4.jpg)
+![Image-1](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/2.jpg)
+![Image-2](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/1.jpg)
+![Image-3](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/3.jpg)
+![Image-4](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/4.jpg)
 
 ## Products Catalog
-![Image-6](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/0.jpg)
-![Image-7](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/5.jpg)
-![Image-8](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/6.jpg)
-![Image-9](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/7.jpg)
-![Image-10](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/8.jpg)
-![Image-11](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/9.jpg)
+![Image-6](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/0.jpg)
+![Image-7](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/5.jpg)
+![Image-8](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/6.jpg)
+![Image-9](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/7.jpg)
+![Image-10](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/8.jpg)
+![Image-11](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/9.jpg)
 
 ## Profile Customization
-![Image-12](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/10.jpg)
-![Image-13](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/11.jpg)
+![Image-12](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/10.jpg)
+![Image-13](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/11.jpg)
 
 ## Checkout Process
-![Image-14](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/12.jpg)
-![Image-15](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/13.jpg)
-![Image-16](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/14.jpg)
-![Image-17](https://github.com/lorenzhahaha/Pert-Republic-E-Commerce/blob/master/Screenshots/15.jpg)
+![Image-14](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/12.jpg)
+![Image-15](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/13.jpg)
+![Image-16](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/14.jpg)
+![Image-17](https://github.com/lorenzhahaha/Pert-Republic/blob/master/Screenshots/15.jpg)
 
 <hr>
 
